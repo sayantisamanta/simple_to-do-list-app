@@ -1,2 +1,2 @@
-# to-di-list-app
+# to-do-list-app
 #CC9877
